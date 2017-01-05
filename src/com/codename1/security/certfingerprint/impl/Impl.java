@@ -39,7 +39,7 @@ public class Impl {
     
     public static void success(String s) {
         if(success != null) {
-            success.onSucess(s);
+            success.onSucess(s.toUpperCase());
         }
     }
     
