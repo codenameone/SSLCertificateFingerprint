@@ -1,0 +1,14 @@
+
+*.jar
+nbproject/private/
+build/
+nbbuild/
+dist/
+lib/CodenameOne_SRC.zip
+TestFingerprint/nbproject/private/
+TestFingerprint/build/
+TestFingerprint/nbbuild/
+TestFingerprint/dist/
+TestFingerprint/lib/CodenameOne_SRC.zip
+TestFingerprint/lib/impl/*
+TestFingerprint/lib/SSLCertificateFingerprint.cn1lib
